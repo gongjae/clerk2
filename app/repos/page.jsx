@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
-import { FaSta, FaCodeBranch, FaEye, FaStar } from 'react-icons/fa'
+import { FaCodeBranch, FaEye, FaStar } from 'react-icons/fa'
 
 const username = 'bradtraversy'
 
