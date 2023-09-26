@@ -3,7 +3,7 @@ import Link from 'next/link'
 export default function Home() {
   return (
     <>
-      <h1 className="text-2xl font-bold mb-4">Gobgjaes Home</h1>
+      <h1 className="text-2xl font-bold mb-4">Gongjaes Home</h1>
 
       <div className="bg-gray-100 p-4 m-4 rounded-lg mb-4">
         <Link
@@ -33,7 +33,7 @@ export default function Home() {
           href="http://localhost:3000/api/courses"
           className="text-xl text-blue-700 font-bold"
         >
-          Backend API      
+          Backend API
         </Link>
                
         <p className="mb-2">
