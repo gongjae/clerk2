@@ -7,10 +7,10 @@ export default function Home() {
 
       <div className="bg-gray-100 p-4 m-4 rounded-lg mb-4">
         <Link
-          href="https://www.clerk2.com"
+          href="https://www.clerk.com"
           className="text-xl text-blue-700 font-bold"
         >
-          clerk2.com
+          clerk.com
         </Link>
         <p>
           This is a demo of Clerk authentication. Clerk is more than a "sign-in
